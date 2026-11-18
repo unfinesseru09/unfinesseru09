@@ -1,16 +1,23 @@
-## Hi there 👋
+# I'm unfinesseru09 👋
 
-<!--
-**unfinesseru09/unfinesseru09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting smooth cross-platform mobile apps with Flutter & React Native. Based in Singapore.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I do
+
+- 🌱 Learning Dart
+- ✨ I prefer boring solutions that work
+- 🌍 Based in Singapore
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=unfinesseru09&hide_border=true&theme=dark" alt="Commit streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=unfinesseru09&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark" alt="unfinesseru09 GitHub stats" />
+
+<img src="https://img.shields.io/badge/Dart-bd93f9?style=for-the-badge&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Firebase-bd93f9?style=for-the-badge&logoColor=white" alt="Firebase" /> <img src="https://img.shields.io/badge/Flutter-bd93f9?style=for-the-badge&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/React%20Native-bd93f9?style=for-the-badge&logoColor=white" alt="React Native" /> <img src="https://img.shields.io/badge/TypeScript-bd93f9?style=for-the-badge&logoColor=white" alt="TypeScript" />
+
+> Small steps, every day.
+
+<img src="https://img.shields.io/github/followers/unfinesseru09?label=Followers&style=social" alt="Followers" /> <a href="https://github.com/unfinesseru09"><img src="https://img.shields.io/badge/GitHub-@unfinesseru09-bd93f9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<sub>Drop a star if any of my repos helps you.</sub>
